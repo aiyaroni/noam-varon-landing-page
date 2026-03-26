@@ -1,0 +1,7 @@
+{
+  "name": "Noam Varon - Solo Grooming",
+  "description": "דף נחיתה יוקרתי לספר גברים עם מערכת ניהול תורים מתקדמת, אנימציות ועיצוב מודרני.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
